@@ -1,0 +1,405 @@
+Afrikaans
+Hallo
+HAH-low
+
+Albanian
+Përshëndetje
+per-shen-DEAT-ye
+
+Amharic
+Iwi selami newi (እው ሰላም ነው)
+ewe-selamee-nuhwee
+
+Arabic
+Marhaba (مرحبًا)
+mur-HAH-ba
+
+Armenian
+Barev
+bah-REV
+
+Aymara
+Kamisaki
+kah-mee-sah-kee
+
+Azerbaijani
+Salam
+sal-aam
+
+Basque
+Kaixo
+kia-show
+
+Belarusian
+Vitaju (Вітаю)
+veeta-you
+
+Bengali
+Hyālō (হ্যালো)
+HEL-oh
+
+Bosnian
+Zdravo
+ZDRAH-voh
+
+Bulgarian
+Zdraveĭte (Здравейте)
+ZDRAH-vey-teh
+
+Burmese
+Haallo (ဟယ်လို)
+HAAL-oo
+
+Cantonese
+Nǐ hǎo (你好)
+nie HAOW
+
+Catalan
+Hola
+OH-laa
+
+Cebuano
+Kamusta
+kuh-moos-tah
+
+Chichewa
+Moni
+moh-nee
+
+Corsican
+Bonghjornu
+bon-jornoo
+
+Croatian
+Zdravo
+ZDRAH-voh
+
+Czech
+Ahoj
+AH-hoy
+
+Danish
+Hej
+hey
+
+Dutch
+Hallo
+HAAL-oo
+
+English
+Hello 
+hah-low
+
+Estonian
+Tere
+TEh-reh
+
+Ewe
+Hello
+hah-low
+
+Farsi (Persian)
+Salām (سلام)
+saol-AM
+
+Fijian
+Bula
+mbula
+
+Filipino
+Kumusta
+koo-moo-stah
+
+Finnish
+Hei
+hey
+
+French
+Bonjour
+bon-ZHOOR
+
+Gaelic (Irish)
+Dia dhuit
+DEE-ah GHWIT
+
+Galician
+Ola
+oh-laah
+
+Georgian
+Gamarjoba (გამარჯობა)
+gah-mahr-joh-bah
+
+German
+Guten tag
+goo-tenn tahk
+
+Greek
+Geia (γεια)
+gya
+
+Guarani
+Mba'éichapa
+mbah-ey-chapaah
+
+Haitian Creole
+Bonjou
+BON-joo
+
+Hawaiian
+Aloha
+AH-low-ha
+
+Hebrew
+Shalom (שלום)
+shah-LOHM
+
+Hindi
+Namaste (नमस्ते)
+nah-mah-steh
+
+Hmong
+Nyob zoo
+nyo-ZHOW
+
+Hungarian
+Szia
+SEE-ah
+
+Icelandic
+Halló
+HAL-oo
+
+Igbo
+Ndewo
+n-day-wo
+
+Ilocano
+Hello
+hah-low
+
+Indonesian
+Halo
+hah-low
+
+Italian
+Ciao
+chau
+
+Japanese
+Konichiwa (こんにちは)
+kohn-nee-chee-wah
+
+Kazakh
+Sälemetsiz be (Сәлеметсіз бе)
+Khmer
+
+Suostei (សួស្តី)
+suo-stey
+Kinyarwanda
+
+Mwaramutse
+mwah-rah-moot-seh
+Korean
+
+Anyeong haseyo (안녕하세요)
+AHN-young-ha-say-yo
+Kurdish
+
+Slav
+slawv
+
+Lao
+Sabaidi (ສະບາຍດີ)
+sa-baai-di
+
+Latin
+Salve
+sal-veh
+
+Latvian
+Sveika (male) or Sveiks (female)
+SVYEH-kah or SVYEH-eeks
+
+Lithuanian
+Sveiki
+svey-kee
+
+Luxembourgish
+Moien
+MOY-en
+
+Malagasy
+Salama
+sah-LAHM-ah
+
+Malay
+Selamat pagi
+suh-lah-met pah-gee
+
+Maltese
+Bongu
+BON-joo
+
+Mandarin
+Nǐ hǎo (你好)
+nie HAOW
+
+Maori
+Kia ora
+kya-orah
+
+Marathi
+Namaskāra (नमस्कार)
+nah-mahs-kah-rah
+
+Mongolian
+Sain uu (сайн уу)
+say-noo
+
+Nahuatl
+Niltze Tialli Pialli
+nilts-tialee-pialee
+
+Navajo
+Ya’at’eeh
+yah-tah-hey
+
+Nepali
+Namaskāra (नमस्कार)
+nah-mahs-kah-rah
+
+Norwegian
+Hei
+hay
+
+Pashto
+Salam (سلام)
+sah-laam
+
+Polish
+Cześć
+cheshch
+
+Portuguese
+Olá
+OH-laa
+
+Punjabi
+Sata srī akāla (ਸਤ ਸ੍ਰੀ ਅਕਾਲ)
+saht sree ah-kahl
+
+Oromo
+Akkam
+akh-kaam
+
+Quechua
+Allianchu
+eye-ee-anch-oo
+
+Romanian
+Bunâ
+boo-na
+
+Russian
+Privet (Привет)
+pree-VYEHT
+
+Samoan
+Talofa
+tah-low-fah
+
+Sepedi
+Thobela
+tob-eh-lah
+
+Serbian
+Zdravo (Здраво)
+ZDRAH-voh
+
+Sesotho
+Dumela
+doo-meh-lah
+
+Slovak
+Ahoj
+AH-hoy
+
+Slovenian
+Zdravo
+ZDRAH-voh
+
+Somali
+Hello
+hah-low
+
+Spanish
+Hola
+oh-laa
+
+Swahili
+Jambo
+jam-BOH
+
+Swedish
+Hallå
+hal-oa
+
+Tagalog
+Kamusta
+kuh-moos-tah
+
+Tahitian
+Ia Orana
+ya-rah-nah
+
+Taiwanese
+Li-hó
+lee-hoh
+
+Tamil
+Vanakkam (வணக்கம்)
+vaa–NAK–kam
+
+Thai
+S̄wạs̄dī (สวัสดี)
+sa-wat-dii
+
+Tibetan
+Tashi delek
+tah-shee del-ek
+
+Tongan
+Mālō e lelei
+mah-lo eh lei-lei
+
+Tsonga
+Avuxeni
+
+Turkish
+Merhaba
+mehr-hah-bah
+
+Ukrainian
+Privit (привіт)
+pree-VEET
+
+Urdu
+Assalāmu Alaykum (السلام عليكم)
+as-salam-u lay-kuhm
+
+Uzbek
+Salom
+shah-lohm
+
+Vietnamese
+Xin chào
+sin CHOW
+
+Welsh
+Helo
+hah-low
+
+Xhosa
+Molo
+moh-loh
